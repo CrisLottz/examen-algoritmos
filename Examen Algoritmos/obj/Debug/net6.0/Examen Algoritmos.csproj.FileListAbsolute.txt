@@ -1,0 +1,15 @@
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\bin\Debug\net6.0\Examen Algoritmos.exe
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\bin\Debug\net6.0\Examen Algoritmos.deps.json
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\bin\Debug\net6.0\Examen Algoritmos.runtimeconfig.json
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\bin\Debug\net6.0\Examen Algoritmos.dll
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\bin\Debug\net6.0\Examen Algoritmos.pdb
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.csproj.AssemblyReference.cache
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.AssemblyInfoInputs.cache
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.AssemblyInfo.cs
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.csproj.CoreCompileInputs.cache
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.dll
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\refint\Examen Algoritmos.dll
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.pdb
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\Examen Algoritmos.genruntimeconfig.cache
+C:\Users\Cris\Documents\UNITEC\Segundo año, 2do cuatrimestre\Programación II\Examen Algoritmos\Examen Algoritmos\obj\Debug\net6.0\ref\Examen Algoritmos.dll

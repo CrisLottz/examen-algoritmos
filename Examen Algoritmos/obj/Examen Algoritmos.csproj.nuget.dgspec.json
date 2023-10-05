@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Cris\\Documents\\UNITEC\\3er año, 2do cuatrimeste\\Algoritmo y estructura de datos\\Examen Algoritmos\\Examen Algoritmos\\Examen Algoritmos.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Cris\\Documents\\UNITEC\\3er año, 2do cuatrimeste\\Algoritmo y estructura de datos\\Examen Algoritmos\\Examen Algoritmos\\Examen Algoritmos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Cris\\Documents\\UNITEC\\3er año, 2do cuatrimeste\\Algoritmo y estructura de datos\\Examen Algoritmos\\Examen Algoritmos\\Examen Algoritmos.csproj",
+        "projectName": "Examen Algoritmos",
+        "projectPath": "C:\\Users\\Cris\\Documents\\UNITEC\\3er año, 2do cuatrimeste\\Algoritmo y estructura de datos\\Examen Algoritmos\\Examen Algoritmos\\Examen Algoritmos.csproj",
+        "packagesPath": "C:\\Users\\Cris\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Cris\\Documents\\UNITEC\\3er año, 2do cuatrimeste\\Algoritmo y estructura de datos\\Examen Algoritmos\\Examen Algoritmos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Cris\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
